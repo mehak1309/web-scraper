@@ -1,7 +1,6 @@
 # Web Scraper
 
-## Overview
-This project is a simple web scraper that extracts product details from e-commerce websites, such as the product name, ASIN (Amazon Standard Identification Number), price, and availability. It uses `Streamlit` for a web-based interface, allowing users to enter a URL and retrieve the product details by clicking a button.
+>This project is a simple web scraper that extracts product details from e-commerce websites, such as the product name, ASIN (Amazon Standard Identification Number), price, and availability. It uses `Streamlit` for a web-based interface, allowing users to enter a URL and retrieve the product details by clicking a button.
 
 ## Features
 - Scrapes product details like title, availability, price, buy box holder, MRP, shipping charge, and fulfillment type (FBA/MFN).
